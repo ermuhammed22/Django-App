@@ -1,0 +1,28 @@
+{% extends "shopapp/base.html" %}
+
+{% block title %}
+    Articles
+{% endblock %}
+
+{% block body %}
+    <h1>Articles</h1>
+
+    {% if object_list %}
+      <ul>
+          {% for article in object_list %}
+            <li>
+              <strong><a href="{% url 'blogapp:article' pk=article.pk %}">{{ article.title }}</a></strong><br>
+
+              <p><strong>Author:</strong> {{ article.author.name }}</p>
+              <p><strong>Category:</strong> {{ article.category.name }}</p>
+              <p><strong>Tags:</strong> {% for tag in article.tags.all %} {{ tag.name }}{% if not forloop.last %},{% endif %}{% endfor %}</p>
+              <p><strong>Published:</strong> {{ article.pub_date|date:"Y-m-d H:i" }}</p>
+            </li>
+          {% endfor %}
+      </ul>
+
+    {% else %}
+      <p>No articles yet.</p>
+    {% endif %}
+
+{% endblock %}

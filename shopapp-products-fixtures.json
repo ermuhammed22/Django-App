@@ -1,0 +1,184 @@
+[
+  {
+    "model": "shopapp.product",
+    "pk": 1,
+    "fields": {
+      "name": "Laptop",
+      "description": "Some description this is not a Desktop",
+      "price": "1999.00",
+      "discount": 0,
+      "created_at": "2025-05-14T09:12:50.108Z",
+      "archived": true,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 2,
+    "fields": {
+      "name": "Desktop (new)",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "price": "2399.00",
+      "discount": 15,
+      "created_at": "2025-05-14T09:12:50.111Z",
+      "archived": false,
+      "preview": "products/product_2/preview/photo_U3tMBLY.png",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 3,
+    "fields": {
+      "name": "Smartphone",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "price": "987.00",
+      "discount": 10,
+      "created_at": "2025-05-14T09:12:50.113Z",
+      "archived": true,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 4,
+    "fields": {
+      "name": "Desktop",
+      "description": "hello desktop",
+      "price": "1234.00",
+      "discount": 0,
+      "created_at": "2025-05-16T07:26:55.008Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 5,
+    "fields": {
+      "name": "Desktop",
+      "description": "qwerty",
+      "price": "1234.00",
+      "discount": 0,
+      "created_at": "2025-05-16T07:29:25.067Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 6,
+    "fields": {
+      "name": "Tablet",
+      "description": "great tablet",
+      "price": "1234.00",
+      "discount": 0,
+      "created_at": "2025-05-16T07:32:00.771Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 7,
+    "fields": {
+      "name": "Phone2",
+      "description": "phone 2 is better than phone 1\r\nthis is a great phone!",
+      "price": "123456.00",
+      "discount": 0,
+      "created_at": "2025-05-16T07:57:02.512Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 8,
+    "fields": {
+      "name": "Phone 3",
+      "description": "phone 3",
+      "price": "999.42",
+      "discount": 12,
+      "created_at": "2025-05-16T08:06:53.309Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 9,
+    "fields": {
+      "name": "Tablet 2",
+      "description": "a new tablet",
+      "price": "1500.00",
+      "discount": 15,
+      "created_at": "2025-05-16T08:07:58.235Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 10,
+    "fields": {
+      "name": "Phone2",
+      "description": "a new phone",
+      "price": "1234.00",
+      "discount": 10,
+      "created_at": "2025-05-22T11:47:12.774Z",
+      "archived": true,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 11,
+    "fields": {
+      "name": "Smartphone 1",
+      "description": "",
+      "price": "199.00",
+      "discount": 10,
+      "created_at": "2025-07-10T12:27:26.297Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 12,
+    "fields": {
+      "name": "Smartphone 2",
+      "description": "",
+      "price": "299.00",
+      "discount": 10,
+      "created_at": "2025-07-10T12:27:26.297Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "shopapp.product",
+    "pk": 13,
+    "fields": {
+      "name": "Smartphone 3",
+      "description": "",
+      "price": "399.00",
+      "discount": 10,
+      "created_at": "2025-07-10T12:27:26.297Z",
+      "archived": false,
+      "preview": "",
+      "created_by": 1
+    }
+  }
+]

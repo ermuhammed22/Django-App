@@ -1,0 +1,27 @@
+{% extends 'shopapp/base.html' %}
+
+{% block title %}
+    Create product
+{% endblock %}
+
+{% block body %}
+    <h1>Create a new product</h1>
+    <div>
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+
+            <label for="id_images">Images:</label>
+            <input type="file" name="images" id="id_images" multiple>
+
+            <div style="margin-top: 10px;">
+                <button type="submit">Create</button>
+            </div>
+        </form>
+    </div>
+
+    <div>
+        <a href="{% url 'shopapp:products_list' %}"
+        >Back to products list</a>
+    </div>
+{% endblock %}

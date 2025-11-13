@@ -1,0 +1,24 @@
+{% extends 'shopapp/base.html' %}
+
+{% block title %}
+    Upload Multiple Images
+{% endblock %}
+
+{% block body %}
+    <h1>Upload Product Images</h1>
+
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+
+        <!-- Поле для загрузки нескольких файлов -->
+        <label for="images">Select images:</label>
+        <input type="file" name="images" id="images" multiple>
+
+        <button type="submit">Upload</button>
+    </form>
+
+    <div>
+        <a href="{% url 'shopapp:products_list' %}">Back to product list</a>
+    </div>
+{% endblock %}

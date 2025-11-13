@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+
+<nav>
+  {% if user.is_authenticated %}
+    <form method="post" action="{% url 'myauth:logout' %}">
+      {% csrf_token %}
+      <button type="submit">Logout</button>
+    </form>
+  {% else %}
+    <a href="{% url 'myauth:login' %}">Login</a>
+  {% endif %}
+</nav>
+
+<hr>
+
+{% block body %}
+{% endblock %}
+
+</body>
+</html>

@@ -1,0 +1,1356 @@
+2025-08-04 10:50:50,583 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 10:51:18,497 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 10:51:18,842 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 10:51:36,585 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 10:51:36,888 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 10:51:42,406 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 10:51:42,732 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 10:51:52,304 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 10:51:52,687 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:14:58,670 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:14:58,990 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:15:09,410 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:15:09,725 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:15:38,709 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:15:39,068 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:15:49,687 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:15:50,048 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:15:56,578 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:15:56,977 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:16:04,532 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:16:04,916 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:16:15,565 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:16:15,925 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:16:24,497 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:16:24,860 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:16:29,338 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:16:29,782 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:16:55,768 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:16:56,131 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-08-04 11:17:04,697 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-08-04 11:19:54,118 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:29:05,811 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:30:27,324 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:30:44,153 [WARNING] django.request: Not Found: /
+2025-10-23 17:30:44,281 [WARNING] django.request: Not Found: /favicon.ico
+2025-10-23 17:32:05,580 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:06,035 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:32:16,651 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:17,048 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:32:22,602 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:23,153 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:32:30,724 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:31,213 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:32:33,549 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:33,946 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:32:41,514 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:42,006 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:32:44,542 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:44,977 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:32:51,634 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:32:52,034 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:33:01,701 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:33:02,156 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:33:11,763 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:33:12,199 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:33:22,836 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:33:23,270 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:33:55,095 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:33:55,516 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 17:33:59,906 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-23 17:34:00,304 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 18:21:05,523 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-23 18:21:05,941 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 18:22:09,496 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-23 18:22:10,916 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 18:22:22,493 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-23 18:22:23,601 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 18:22:31,095 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-23 18:22:32,196 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 18:22:38,654 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-23 18:22:39,757 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 18:28:20,364 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-23 18:28:21,638 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-23 18:29:35,550 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-23 18:29:36,806 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:09:08,632 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:13:22,548 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:13:46,487 [WARNING] django.request: Not Found: /
+2025-10-24 17:24:04,977 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-24 17:24:06,144 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:24:14,507 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-24 17:24:15,581 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:24:26,147 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-24 17:24:27,303 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:24:34,806 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-24 17:24:36,072 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:24:42,533 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-24 17:24:43,695 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-24 17:24:55,166 [ERROR] django.request: Internal Server Error: /ru/admin/shopapp/product/
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/test/utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: admin/changelist.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 41, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/utils.py", line 1851, in runner
+    return sentry_patched_function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/templates.py", line 77, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: admin/changelist.html
+2025-10-24 17:25:28,421 [ERROR] django.request: Internal Server Error: /ru/admin/shopapp/product/
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 41, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/utils.py", line 1851, in runner
+    return sentry_patched_function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/templates.py", line 77, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/test/utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/test/utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/test/utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 157, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/test/utils.py", line 112, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 63, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/base.py", line 45, in render
+    return super().render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/library.py", line 258, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/admin_modify.py", line 65, in submit_row
+    add = context["add"]
+          ~~~~~~~^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'add'
+2025-10-29 12:01:51,443 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:01:56,996 [WARNING] django.request: Not Found: /favicon.ico
+2025-10-29 12:01:56,998 [WARNING] django.request: Not Found: /favicon.ico
+2025-10-29 12:03:30,985 [ERROR] django.request: Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py", line 97, in import_csv
+    Product.objects.bulk_create(products)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/models/manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/models/query.py", line 803, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/models/query.py", line 1831, in _batched_insert
+    self._insert(
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/models/query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 234, in execute
+    return self._record(super().execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 160, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 102, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/utils.py", line 1851, in runner
+    return sentry_patched_function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/__init__.py", line 652, in execute
+    result = real_execute(self, sql, params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 84, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+2025-10-29 12:11:00,175 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-29 12:11:01,199 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:39:41,344 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:39:42,391 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:39:52,926 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:39:53,892 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:40:00,204 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:40:01,162 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:44:16,772 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:44:17,737 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:44:26,091 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:44:27,089 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:44:31,434 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:44:32,514 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:47:11,296 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:47:12,294 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:47:25,933 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:47:26,908 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:47:37,296 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:47:38,367 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:47:49,804 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:47:50,759 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:48:17,498 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:48:18,596 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:48:25,927 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:48:26,900 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:48:31,173 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:48:32,237 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:48:38,550 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:48:39,575 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:48:41,800 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:48:42,794 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:48:47,219 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:48:48,214 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:49:07,806 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:49:08,778 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:49:23,251 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:49:24,316 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:50:10,480 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:50:11,583 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:50:19,950 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:50:20,938 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:50:25,238 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:50:26,356 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:50:35,753 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:50:36,722 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:50:45,215 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:50:46,278 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:50:54,762 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:50:55,774 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:51:04,159 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:51:05,128 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:51:10,560 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:51:11,562 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:51:33,356 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:51:34,427 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:51:40,786 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:51:41,757 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:51:55,369 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:51:56,339 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:52:18,117 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:52:19,132 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:52:22,508 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:52:23,480 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:52:38,141 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:52:39,206 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:52:44,497 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:52:45,464 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:52:50,748 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:52:51,790 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:52:55,181 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:52:56,250 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:06,822 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:53:07,844 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:09,187 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:53:10,231 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:17,766 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:53:18,793 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:23,074 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:53:24,053 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:31,400 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:53:32,451 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:43,892 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:53:44,985 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:47,355 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:53:48,360 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:53:59,924 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:00,932 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:06,357 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:07,326 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:13,770 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:14,766 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:21,239 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:22,422 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:25,834 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:26,894 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:30,289 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:31,293 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:32,651 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:33,677 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:44,216 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:45,212 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:49,507 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:50,538 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:54:57,014 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:54:58,000 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:55:08,545 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:55:09,512 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:55:20,065 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:55:21,049 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:55:56,160 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:55:57,251 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:56:04,614 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:56:05,673 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:56:11,992 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:56:13,063 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:56:17,344 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:56:18,424 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:56:23,723 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:56:24,768 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:56:38,239 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:56:39,293 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:57:05,032 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:57:06,045 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:57:31,763 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:57:32,757 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:57:58,534 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:57:59,524 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:58:08,923 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:58:09,912 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:58:14,212 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:58:15,325 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:58:20,620 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:58:21,663 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:58:24,920 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:58:25,975 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:58:28,201 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:58:29,341 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:58:35,663 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:58:36,664 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:58:44,016 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:58:44,979 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 12:59:04,568 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 12:59:05,605 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-29 15:57:49,535 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-29 15:57:50,738 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:06:24,792 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:06:26,021 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:06:35,538 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:06:36,744 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:06:45,236 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:06:46,286 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:07:05,877 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:07:06,912 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:07:26,626 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:07:27,691 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:07:47,399 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:07:48,622 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:07:58,996 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:08:00,078 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:08:25,918 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:08:26,987 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:08:33,451 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:08:34,487 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:08:37,729 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:08:38,931 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:08:45,381 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:08:46,543 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:08:58,117 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:08:59,215 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:09:19,951 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:09:21,130 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:09:26,455 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:09:27,478 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:09:33,931 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:09:35,140 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:09:52,812 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:09:53,859 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:10:18,669 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:10:19,879 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:10:25,208 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:10:26,387 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:10:29,780 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:10:30,833 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:10:37,138 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:10:38,225 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:10:56,937 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:10:58,020 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:11:03,445 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:11:04,496 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:11:07,929 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:11:09,020 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:11:13,478 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:11:14,477 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:11:18,884 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:11:19,963 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:11:24,377 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:11:25,554 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:11:28,821 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:11:29,893 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:11:39,404 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:11:40,413 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:12:22,519 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:12:23,710 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:12:29,005 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:12:30,117 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:12:37,464 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:12:38,495 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:12:39,701 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:12:40,688 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:12:44,951 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:12:46,012 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:12:51,305 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:12:52,326 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:12:55,741 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:12:56,848 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:13:18,628 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:13:19,654 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:13:30,045 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:13:31,135 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:13:33,367 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:13:34,480 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:13:38,763 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:13:39,840 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:13:43,256 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:13:44,294 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:13:47,682 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:13:48,743 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:14:12,554 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:14:13,583 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:21:05,244 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:21:06,280 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:21:24,954 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 18:21:26,014 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:24:24,520 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 18:24:25,596 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:25:14,671 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 18:25:15,722 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:26:28,496 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 18:26:29,644 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:26:37,127 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 18:26:38,224 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:28:23,589 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 18:28:24,695 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:30:24,370 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 18:30:25,451 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:48:47,438 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:53:48,004 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:53:49,050 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:53:52,490 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:53:53,567 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:53:58,897 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:53:59,974 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:54:07,316 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:54:08,358 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:54:10,648 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:54:11,835 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:54:13,125 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:54:14,162 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:54:57,806 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:54:58,941 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:55:17,364 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:55:18,400 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:56:09,749 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:56:10,840 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:56:54,997 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:56:56,058 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:57:01,489 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:57:02,515 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:57:26,323 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:57:27,319 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:57:40,899 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:57:42,000 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:57:53,554 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:57:54,629 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:58:03,149 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:58:04,188 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:58:33,045 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:58:34,074 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 18:58:43,579 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 18:58:44,643 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:00:21,848 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 19:00:22,952 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:01:49,986 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:01:50,997 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:01:55,386 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:01:56,485 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:02:07,883 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:02:08,933 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:02:16,260 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:02:17,348 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:02:36,883 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:02:37,894 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:01,509 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:02,508 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:04,737 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:05,816 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:16,231 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:17,232 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:20,487 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:21,552 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:23,789 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:24,867 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:34,235 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:35,349 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:39,622 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:40,695 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:03:45,987 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:03:47,146 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:04:02,622 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:04:03,662 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:04:12,018 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:04:13,097 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:04:30,617 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:04:31,681 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:04:35,946 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:04:36,984 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:05:10,776 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:05:11,763 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:05:25,200 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:05:26,259 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:05:37,684 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:05:38,755 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:05:43,025 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:05:44,044 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:06:14,768 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:06:15,818 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:06:26,190 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:06:27,280 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:06:28,653 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:06:29,768 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:06:35,205 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:06:36,282 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:06:39,692 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:06:40,730 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:06:43,977 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:06:45,052 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:07:03,733 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:07:04,798 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:07:07,161 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:07:08,205 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:07:20,758 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:07:21,816 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:07:26,222 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:07:27,363 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:07:29,759 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:07:30,864 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:07:38,365 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:07:39,427 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:07:47,916 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:07:49,001 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:08:04,624 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:08:05,646 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:08:21,267 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:08:22,352 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:08:30,869 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:08:31,920 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:08:35,334 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:08:36,397 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:08:38,760 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:08:39,785 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:08:44,047 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:08:45,144 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:09:05,873 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:09:06,970 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:09:19,540 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:09:20,634 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:09:31,163 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:09:32,195 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:09:38,509 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:09:39,709 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:09:47,190 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:09:48,251 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:09:54,720 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:09:55,757 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:10:01,205 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:10:02,283 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:10:06,564 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:10:07,651 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:10:24,290 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:10:25,378 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:10:47,492 [WARNING] django.request: Method Not Allowed: /ru/shop/api/products/upload_csv/
+2025-10-30 19:14:11,602 [ERROR] django.request: Internal Server Error: /ru/shop/api/products/upload_csv/
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py", line 98, in upload_csv
+    products = save_csv_products(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/common.py", line 21, in save_csv_products
+    created_by=request.user
+               ^^^^^^^
+NameError: name 'request' is not defined
+2025-10-30 19:18:24,000 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/common.py changed, reloading.
+2025-10-30 19:18:25,079 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:19:09,240 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-10-30 19:19:10,275 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:19:19,148 [ERROR] django.request: Internal Server Error: /ru/shop/api/products/upload_csv/
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 94, in sentry_wrapped_callback
+    return callback(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py", line 98, in upload_csv
+    products = save_csv_products(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/common.py", line 16, in save_csv_products
+    product = Product(
+              ^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/models/base.py", line 543, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 266, in __set__
+    raise ValueError(
+ValueError: Cannot assign "<django.contrib.auth.models.AnonymousUser object at 0x7d5c70a2e6c0>": "Product.created_by" must be a "User" instance.
+2025-10-30 19:56:18,966 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/models.py changed, reloading.
+2025-10-30 19:56:20,043 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 19:57:56,506 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 20:16:33,414 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 20:40:10,018 [ERROR] django.request: Internal Server Error: /ru/blog/articles/1/
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 41, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/utils.py", line 1851, in runner
+    return sentry_patched_function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/templates.py", line 77, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blogapp/article_detail.html
+2025-10-30 20:55:10,571 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:00:14,940 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:00:16,165 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:00:23,638 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:00:24,776 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:00:31,093 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:00:32,111 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:00:36,384 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:00:37,402 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:00:40,646 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:00:41,702 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:00:49,031 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:00:50,112 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:01:07,643 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:01:08,701 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:01:28,257 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:01:29,319 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:01:42,764 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:01:43,796 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:01:48,058 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:01:49,083 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:01:54,369 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:01:55,497 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:03,848 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:04,978 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:08,234 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:09,316 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:19,848 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:20,879 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:24,264 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:25,373 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:30,796 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:31,897 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:36,323 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:37,392 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:47,777 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:48,811 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:02:58,166 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:02:59,196 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:03:02,581 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:03:03,691 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:03:14,228 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:03:15,325 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:03:22,793 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:03:23,865 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:03:38,462 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:03:39,500 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:03:43,770 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:03:44,852 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:03:50,299 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:03:51,379 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:04:03,945 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:04:05,011 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:04:12,480 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:04:13,565 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:04:20,043 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:04:21,197 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:04:24,444 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:04:25,507 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:04:28,769 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:04:29,868 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:04:49,580 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:04:50,648 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:05:00,141 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:05:01,228 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:05:21,952 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:05:22,964 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:05:40,616 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:05:41,653 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:06:04,433 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:06:05,490 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:06:07,731 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:06:08,794 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:06:15,105 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:06:16,183 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:06:19,424 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:06:20,467 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:06:33,893 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:06:34,945 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:06:49,562 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:06:50,620 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:06:54,910 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:06:56,068 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:07:00,363 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:07:01,429 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:07:15,875 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:07:16,954 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:07:23,403 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:07:24,489 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:07:34,025 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:07:35,027 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:07:42,340 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:07:43,449 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:07:52,815 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:07:53,920 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:08:07,509 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:08:08,635 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:08:15,088 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:08:16,160 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:08:19,413 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:08:20,535 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:08:22,907 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:08:24,010 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:08:30,449 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:08:31,553 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:08:33,790 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:08:34,858 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:08:41,160 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:08:42,212 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:09:10,071 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:09:11,156 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:09:16,602 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:09:17,699 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:09:33,315 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:09:34,334 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:09:48,790 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:09:49,829 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:09:52,058 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:09:53,148 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:09:59,476 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:10:00,639 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:10:07,969 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:10:09,001 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:10:21,407 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/urls.py changed, reloading.
+2025-10-30 21:10:22,473 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:31:22,556 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/models.py changed, reloading.
+2025-10-30 21:31:23,597 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:31:31,926 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/models.py changed, reloading.
+2025-10-30 21:31:32,885 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:31:36,187 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/models.py changed, reloading.
+2025-10-30 21:31:37,221 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:31:47,572 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/models.py changed, reloading.
+2025-10-30 21:31:48,581 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:34:40,157 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/models.py changed, reloading.
+2025-10-30 21:34:41,113 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:34:50,468 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/models.py changed, reloading.
+2025-10-30 21:34:51,529 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:35:05,134 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/models.py changed, reloading.
+2025-10-30 21:35:06,224 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:35:20,840 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/blogapp/views.py changed, reloading.
+2025-10-30 21:35:21,851 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:37:08,261 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:37:09,331 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:37:11,716 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:37:12,759 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:37:19,069 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:37:20,076 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:37:24,348 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:37:25,465 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:37:29,735 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:37:30,823 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:37:42,224 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:37:43,226 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:38:56,783 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:38:57,819 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:39:05,086 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:39:06,181 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:39:10,398 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:39:11,465 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:39:17,782 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:39:18,782 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:39:37,452 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:39:38,476 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:39:47,983 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:39:49,026 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:39:53,480 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:39:54,555 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:40:02,841 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:40:03,811 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:40:09,038 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:40:10,030 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:40:15,271 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:40:16,408 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:40:30,009 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/urls.py changed, reloading.
+2025-10-30 21:40:31,009 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:41:41,001 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:42:10,031 [WARNING] django.request: Not Found: /sitemap
+2025-10-30 21:42:26,526 [ERROR] django.request: Internal Server Error: /ru/sitemap.xml
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 41, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/utils.py", line 1851, in runner
+    return sentry_patched_function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/templates.py", line 77, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 74, in resolve_template
+    return get_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: sitemap.xml
+2025-10-30 21:43:28,599 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-30 21:43:29,614 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:43:35,816 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-10-30 21:43:36,853 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:52:25,443 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/models.py changed, reloading.
+2025-10-30 21:52:26,444 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:53:03,440 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/models.py changed, reloading.
+2025-10-30 21:53:04,444 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:53:44,533 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/models.py changed, reloading.
+2025-10-30 21:53:45,536 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:56:04,609 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/sitemaps.py changed, reloading.
+2025-10-30 21:56:05,704 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:56:41,441 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/sitemaps.py changed, reloading.
+2025-10-30 21:56:42,470 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 21:59:57,531 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 21:59:58,628 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:00:19,359 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 22:00:20,376 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:00:50,270 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-10-30 22:00:51,339 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:01:27,323 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-10-30 22:01:28,377 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:03:15,823 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-10-30 22:03:16,864 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:03:26,389 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-10-30 22:03:27,451 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:06:22,277 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 22:06:23,383 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:06:46,168 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 22:06:47,226 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:11:02,492 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 22:11:03,575 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:11:46,712 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 22:11:47,746 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:11:50,116 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 22:11:51,124 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:12:43,572 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 22:12:44,678 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:13:00,344 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/admin.py changed, reloading.
+2025-10-30 22:13:01,425 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-10-30 22:28:39,628 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:43:11,966 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:43:40,120 [INFO] shopapp.views: Rendering shop index
+2025-11-11 06:43:40,288 [WARNING] django.request: Not Found: /favicon.ico
+2025-11-11 06:45:52,606 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-11-11 06:45:53,671 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:47:04,387 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 06:47:05,427 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:47:27,164 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 06:47:28,110 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:47:32,514 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 06:47:33,469 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:47:38,924 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 06:47:40,084 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:47:46,538 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 06:47:47,558 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 06:48:24,263 [WARNING] django.request: Not Found: /ru/myauth/coockie/get
+2025-11-11 06:48:37,241 [WARNING] django.request: Not Found: /myauth/coockie/get
+2025-11-11 07:05:53,319 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 07:05:54,409 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:06:02,743 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 07:06:03,759 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:06:07,004 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 07:06:08,008 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:06:14,333 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 07:06:15,381 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:06:33,065 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 07:06:34,082 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:06:39,366 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 07:06:40,379 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:06:47,709 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/myauth/views.py changed, reloading.
+2025-11-11 07:06:48,776 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:10:03,957 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 07:10:04,998 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:10:14,353 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 07:10:15,343 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:10:20,634 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 07:10:21,634 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:10:43,364 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 07:10:44,389 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:10:55,971 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 07:10:57,035 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:11:07,557 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 07:11:08,620 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:11:32,235 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:16:13,966 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:16:14,982 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:16:17,405 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:16:18,396 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:16:29,948 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:16:30,953 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:16:34,215 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:16:35,254 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:16:47,665 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:16:48,706 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:16:51,966 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:16:52,975 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:16:57,380 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:16:58,368 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:17:01,617 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:17:02,656 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:17:05,909 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:17:06,907 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:17:17,468 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:17:18,417 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:17:25,860 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:17:26,834 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:17:31,118 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:17:32,116 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:17:38,566 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:17:39,590 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:17:59,294 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:18:00,310 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:18:08,649 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:18:09,624 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:18:22,038 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:18:23,041 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:18:31,535 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:18:32,564 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:18:39,009 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:18:40,059 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:18:56,553 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:18:57,550 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:19:00,817 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:19:01,905 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:19:07,194 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:19:08,269 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:19:26,817 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:19:27,824 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:19:42,435 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:19:43,582 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:19:51,049 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:19:52,105 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:19:58,545 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:19:59,605 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:21:48,055 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/api.py changed, reloading.
+2025-11-11 07:21:49,200 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:22:31,368 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:22:32,350 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:23:45,910 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:23:46,878 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:24:02,476 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:36:04,230 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:36:05,271 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:39:08,116 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:39:22,625 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:39:23,090 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:39:23,583 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:40:10,626 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:40:12,687 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:41:00,197 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:41:26,574 [INFO] shopapp.views: Rendering shop index
+2025-11-11 07:55:09,074 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:55:10,187 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:55:17,534 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:55:18,635 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:55:23,909 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:55:24,890 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:55:58,865 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:55:59,891 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:56:12,481 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:56:13,470 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:56:32,186 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:56:33,264 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:56:44,825 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:56:45,860 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:56:50,292 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:56:51,268 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:57:00,769 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:57:01,823 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:57:16,465 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:57:17,433 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:57:22,856 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:57:23,890 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:57:40,521 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:57:41,526 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:57:51,031 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:57:52,044 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:57:55,477 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:57:56,456 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:58:14,982 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:58:15,998 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:58:42,820 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:58:43,774 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:59:20,797 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:59:21,808 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:59:28,123 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:59:29,199 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 07:59:36,514 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 07:59:37,461 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:00:11,477 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:00:12,436 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:00:28,065 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:00:29,150 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:00:34,565 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:00:35,639 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:03:10,029 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-11-11 08:03:11,132 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:03:18,606 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-11-11 08:03:19,573 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:03:26,015 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-11-11 08:04:36,621 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:07:16,971 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-11-11 08:07:17,916 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:11:46,393 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-11-11 08:11:47,410 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:11:53,823 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2025-11-11 08:11:54,835 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:15:29,315 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:15:30,316 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:15:33,567 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:15:34,614 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:15:54,295 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:15:55,244 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:16:34,116 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:16:35,097 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:16:47,496 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:16:48,541 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:17:32,732 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:17:33,751 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:18:17,902 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:18:18,949 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:18:22,336 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:18:23,344 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:18:30,826 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:18:31,831 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:18:44,385 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 08:18:45,343 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:19:03,008 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 08:19:04,052 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:19:13,543 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 08:19:14,582 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:19:25,119 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 08:19:26,100 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:20:41,861 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/urls.py changed, reloading.
+2025-11-11 08:20:42,874 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:28:28,745 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:33:57,482 [WARNING] django.request: Not Found: /ru/shop/users/9999/orders/
+2025-11-11 08:38:56,205 [INFO] django.utils.autoreload: /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/shopapp/views.py changed, reloading.
+2025-11-11 08:38:57,232 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2025-11-11 08:40:39,707 [ERROR] django.request: Internal Server Error: /ru/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 505, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'endcache'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/views.py", line 41, in sentry_patched_render
+    return old_render(self)
+           ^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/utils.py", line 1851, in runner
+    return sentry_patched_function(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/sentry_sdk/integrations/django/templates.py", line 77, in rendered_content
+    return real_rendered_content.fget(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loaders/cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loaders/base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 232, in do_block
+    nodelist = parser.parse(("endblock",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/templatetags/cache.py", line 84, in do_cache
+    nodelist = parser.parse(("endcache",))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 513, in parse
+    raise self.error(token, e)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 953, in do_if
+    nodelist = parser.parse(("elif", "else", "endif"))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 507, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/ermuhammed/venv/lib/python3.12/site-packages/django/template/base.py", line 558, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 41: 'endcache', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?
+2025-11-11 08:47:13,625 [WARNING] django.request: Not Found: /ru/shop/users/9999/orders/export/

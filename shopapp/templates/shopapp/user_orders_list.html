@@ -1,0 +1,43 @@
+{% extends 'shopapp/base.html' %}
+{% load cache %}
+
+{% block title %}
+  Orders for {{ owner.username }}
+{% endblock %}
+
+{% block body %}
+  <h1>Orders for {{ owner.username }}</h1>
+    <p>Время загрузки страницы: <strong>{% now "H:i:s" %}</strong></p> <hr>
+  <p>Here you can see all orders for user {{ owner.username }}.</p>
+  <hr>
+
+  {% cache 300 user_orders_list owner.pk %}
+    <h3>Cached Order List:</h3>
+    <p>Время генерации кеша: <strong>{% now "H:i:s" %}</strong></p>
+
+    {% if orders %}
+      <p>User <strong>{{ owner.username }}</strong> has the following orders:</p>
+      <div>
+        <ul>
+          {% for order in orders %}
+            <li>
+              <a href="{% url 'shopapp:order_details' pk=order.pk %}">Order #{{ order.pk }}</a>
+              (Created: {{ order.created_at }})
+              <p>Products in order:
+                <ul>
+                  {% for product in order.products.all %}
+                    <li>{{ product.name }}</li>
+                  {% endfor %}
+                </ul>
+              </p>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% else %}
+      <p>User <strong>{{ owner.username }}</strong> has no orders yet.</p>
+    {% endif %}
+
+  {% endcache %}
+
+{% endblock %}
