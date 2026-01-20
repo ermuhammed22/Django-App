@@ -17,7 +17,7 @@ from django.urls import reverse, reverse_lazy
 from django.utils.decorators import method_decorator
 from django.utils.translation import gettext_lazy as _, ngettext
 
-from sqlalchemy import lambda_stmt
+# from sqlalchemy import lambda_stmt
 
 from .models import Profile
 
