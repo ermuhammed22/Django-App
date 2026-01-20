@@ -1354,3 +1354,12 @@ Traceback (most recent call last):
     raise self.error(
 django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 41: 'endcache', expected 'elif', 'else' or 'endif'. Did you forget to register or load this tag?
 2025-11-11 08:47:13,625 [WARNING] django.request: Not Found: /ru/shop/users/9999/orders/export/
+2026-01-20 07:38:30,379 INFO [django.utils.autoreload:681] autoreload Watching for file changes with StatReloader
+2026-01-20 07:47:56,446 INFO [django.utils.autoreload:265] autoreload /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2026-01-20 07:47:57,492 INFO [django.utils.autoreload:681] autoreload Watching for file changes with StatReloader
+2026-01-20 07:48:19,914 INFO [django.utils.autoreload:681] autoreload Watching for file changes with StatReloader
+2026-01-20 07:52:49,406 INFO [django.utils.autoreload:265] autoreload /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2026-01-20 07:52:50,516 INFO [django.utils.autoreload:681] autoreload Watching for file changes with StatReloader
+2026-01-20 07:54:01,228 INFO [django.utils.autoreload:265] autoreload /home/ermuhammed/Рабочий стол/Обучение Python/python_django/mysite/mysite/settings.py changed, reloading.
+2026-01-20 07:54:02,319 INFO [django.utils.autoreload:681] autoreload Watching for file changes with StatReloader
+2026-01-20 08:26:41,446 INFO [django.utils.autoreload:681] autoreload Watching for file changes with StatReloader

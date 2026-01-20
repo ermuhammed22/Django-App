@@ -10,9 +10,11 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.1/ref/settings/
 """
 import os
+import logging.config
+from os import getenv
 from pathlib import Path
 
-from django.conf.global_settings import LOGIN_REDIRECT_URL, MEDIA_URL, USE_L10N
+# from django.conf.global_settings import LOGIN_REDIRECT_URL, MEDIA_URL
 from django.urls import reverse_lazy
 from django.utils.translation import gettext_lazy as _
 import sentry_sdk
@@ -25,22 +27,28 @@ sentry_sdk.init(
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
+# DATABASE_DIR = BASE_DIR / "database"
+# DATABASE_DIR.mkdir(exist_ok=True)
 
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-#s8k$0pdbe$jhp-6xoi(zio1dd#^cpcxfu94416vnbg+4ew(xp'
+SECRET_KEY = getenv(
+    "DJANGO_SECRET_KEY",
+    'django-insecure-#s8k$0pdbe$jhp-6xoi(zio1dd#^cpcxfu94416vnbg+4ew(xp'
+)
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = getenv("DJANGO_DEBUG", "0") == "1"
 
 ALLOWED_HOSTS = [
     '0.0.0.0',
     '127.0.0.1',
     'localhost',
-]
+] + getenv("DJANGO_ALLOWED_HOSTS", "").split(",")
+
 INTERNAL_IPS = [
     '127.0.0.1',
 ]
@@ -167,8 +175,6 @@ USE_I18N = True
 
 USE_TZ = True
 
-USE_L10N = True
-
 LOCALE_PATHS = [
     BASE_DIR / 'locale/'
 ]
@@ -180,13 +186,19 @@ LANGUAGES = [
 
 
 # Static files (CSS, JavaScript, Images)
-# https://docs.djangoproject.com/en/5.1/howto/static-files/
-
 STATIC_URL = 'static/'
-# STATIC_ROOT = BASE_DIR / 'uploads'
 
+# Папка, куда collectstatic будет складывать файлы для продакшена
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+# Дополнительные папки со статикой (для разработки, по желанию)
+STATICFILES_DIRS = [
+    BASE_DIR / 'static',
+]
+
+# Медиа-файлы (загружаемые пользователями)
 MEDIA_URL = '/media/'
-MEDIA_ROOT = BASE_DIR / 'uploads'
+MEDIA_ROOT = BASE_DIR / 'media'
 # DEFAULT_FILE_STORAGE =
 
 # Default primary key field type
@@ -219,21 +231,26 @@ LOGFILE_NAME = BASE_DIR / "log.txt"
 LOGFILE_SIZE = 1 * 1024 * 1024
 LOGFILE_COUNT = 3
 
-LOGGING = {
+
+LOGLEVEL = getenv("DJANGO_LOGLEVEL", "info").upper()
+
+logging.config.dictConfig({
     'version': 1,
     'disable_existing_loggers': False,
     'formatters': {
         'verbose': {
-            'format': '%(asctime)s [%(levelname)s] %(name)s: %(message)s',
+            'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)s] %(module)s %(message)s',
+        },
+        'console': {
+            'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)s] %(module)s %(message)s',
         },
     },
     'handlers': {
         'console': {
             'class': 'logging.StreamHandler',
-            'formatter': 'verbose',
+            'formatter': 'console',
         },
         'logfile': {
-            # 'class': 'logging.handlers.TimeRotatingFileHandler',
             'class': 'logging.handlers.RotatingFileHandler',
             'filename': LOGFILE_NAME,
             'maxBytes': LOGFILE_SIZE,
@@ -241,11 +258,11 @@ LOGGING = {
             'formatter': 'verbose',
         },
     },
-    'root':{
+    'root': {
         'handlers': [
             'console',
             'logfile',
         ],
-        'level': 'INFO',
+        'level': LOGLEVEL,
     },
-}
+})
